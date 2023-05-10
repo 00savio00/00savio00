@@ -32,12 +32,8 @@
   </table>
 </div>
     
-    
-<div align="center">
-  
-  ![Snake animation](https://github.com/00savio00/00savio00/output/github-contribution-grid-snake.svg)
-  
-</div>
+ 
+
 
 
  
